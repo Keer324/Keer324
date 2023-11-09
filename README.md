@@ -1,22 +1,20 @@
 <h1 align="center"> Hi👋, I'm Keerthiraj Moger</h1>
 <h3 align="center"> Web Developer | Programmer | Continuous Learner</h3>
 
-- 🌱 I’m currently learning **Web Development**
-- 👨‍💻 You can also check out my portfolio at [https://keer324.github.io/Keerthiraj-Portfolio/](https://keer324.github.io/Keerthiraj-Portfolio/)
+
+
+  - 🌱 I’m currently learning **Web Development**
+  - 👨‍💻 You can also check out my portfolio at [https://keer324.github.io/Keerthiraj-Portfolio/](https://keer324.github.io/Keerthiraj-Portfolio/)
  
- - 📫 How to reach me **keerthimoger@gmail.com**
+  - 📫 How to reach me **keerthimoger@gmail.com**
 
    <h3 align="left">Connect with me:</h3>
    <p align="left">
    <a href="https://www.linkedin.com/in/keerthiraj-moger-1b1777248/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamkeerthi" 
    height="30" width="40" /></a>
-   
-
-
+    
    ## 💼 Technical Skills
 
-   <br>
-   <br>
 
    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,react,nodejs,js,html,css,bootstrap)](https://skillicons.dev)
 
@@ -36,11 +34,9 @@
    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
-<br>
-<hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keer324&show_icons=true&locale=en&layout=compact" alt="keer324" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keer324&show_icons=true&locale=en" alt="keer324" /></p>
+   <br>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keer324&show_icons=true&locale=en&layout=compact" alt="keer324" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keer324&show_icons=true&locale=en" alt="keer324" /></p>
 
 
 <!--
