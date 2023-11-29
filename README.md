@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋, I'm Keerthiraj Moger</h1>
 <h3 align="center"> Web Developer | Programmer | Continuous Learner</h3>
-
+         <p align="left"> <img src="https://komarev.com/ghpvc/?username=keer324&label=Profile%20views&color=0e75b6&style=flat" alt="keer324" /> </p>
 
 
   - 🌱 I’m currently learning **Web Development**
