@@ -5,13 +5,18 @@
 
   - 🌱 I’m currently learning **Web Development**
   - 👨‍💻 You can also check out my portfolio at [https://keer324.github.io/Keerthiraj-Portfolio/](https://keer324.github.io/Keerthiraj-Portfolio/)
- 
   - 📫 How to reach me **keerthimoger@gmail.com**
+    <br>
+    <br>
+     <img alt="GIF" src="https://github.com/Keer324/keer324/blob/main/hadder.gif?raw=true" width="500"/> 
 
    <h3 align="left">Connect with me:</h3>
    <p align="left">
    <a href="https://www.linkedin.com/in/keerthiraj-moger-1b1777248/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamkeerthi" 
    height="30" width="40" /></a>
+
+   
+
     
    ## 💼 Technical Skills
 
