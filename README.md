@@ -17,6 +17,9 @@
    <p align="left">
    <a href="https://www.linkedin.com/in/keerthiraj-moger-1b1777248/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamkeerthi" 
    height="30" width="40" /></a>
+   <a href="https://github.com/Keer324" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iamkeerthi" 
+   height="30" width="40" /></a>
+   
 
    
 
