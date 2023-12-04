@@ -6,6 +6,9 @@
   - 🌱 I’m currently learning **Web Development**
   - 👨‍💻 You can also check out my portfolio at [https://keer324.github.io/Keerthiraj-Portfolio/](https://keer324.github.io/Keerthiraj-Portfolio/)
   - 📫 How to reach me **keerthimoger@gmail.com**
+  - 🧠 I am an **open-source enthusiast** and an aspiring **mern stack developer** along with other skills like C, C++, Java, Javascript.
+  - 👯 I’m looking forward to **be a part of various interesting projects.**
+  - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
     <br>
     <br>
      <img alt="GIF" src="https://github.com/Keer324/keer324/blob/main/hadder.gif?raw=true" width="500"/> 
