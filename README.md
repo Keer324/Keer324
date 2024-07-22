@@ -4,7 +4,7 @@
            <img  align="right"  width="400" alt="GIF" src="https://github.com/Keer324/keer324/blob/main/hadder.gif?raw=true" width="500"/> 
 
 
-  - 🌱  I’m currently learning **DevSecOps & Cloud Devops**
+  - 🌱  I’m currently learning **AWS & Cloud DevOps**
   - 👨‍💻 You can also check out my portfolio at [https://keer324.github.io/Keerthiraj-Portfolio/](https://keer324.github.io/Keerthiraj-Portfolio/)
   - 📫 How to reach me **keerthimoger@gmail.com**
   - 🧠 I am an **open-source enthusiast** and an aspiring **mern stack developer** along with other skills like C, Python, Java, Javascript.
@@ -20,6 +20,8 @@
    alt="iamkeerthi" 
    height="30" width="40" /></a>
    <a href="https://github.com/Keer324" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iamkeerthi" 
+   height="30" width="40" /></a>
+    <a href="https://gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="iamkeerthi" 
    height="30" width="40" /></a>
    
 
@@ -52,7 +54,11 @@
    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
-   <br>
+   
+
+
+  
+
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keer324&show_icons=true&locale=en&layout=compact" alt="keer324" /></p>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keer324&show_icons=true&locale=en" alt="keer324" /></p>
    <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=keer324" alt="GitHub Streak" /></a></p
@@ -60,9 +66,6 @@
    <br>
    ### 🔝 Top Contributed Repo
 
-
-
-   
    ![](https://github-contributor-stats.vercel.app/api?username=Keer324&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <!--
