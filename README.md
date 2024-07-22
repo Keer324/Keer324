@@ -31,7 +31,7 @@
    ## 💼 Technical Skills
 
 
-   [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,react,nodejs,js,html,css,bootstrap)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=c,java,py,react,nodejs,js,html,css,bootstrap,aws,docker,kubernetes,jenkins)](https://skillicons.dev)
 
 
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
