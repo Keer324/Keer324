@@ -1,6 +1,7 @@
 <h1 align="center"> Hi👋, I'm Keerthiraj Moger</h1>
 <h3 align="center"> Web Developer | Programmer | Continuous Learner</h3>
          <p align="left"> <img src="https://komarev.com/ghpvc/?username=keer324&label=Profile%20views&color=0e75b6&style=flat" alt="keer324" /> </p>
+           <img  align="right"  width="400" alt="GIF" src="https://github.com/Keer324/keer324/blob/main/hadder.gif?raw=true" width="500"/> 
 
 
   - 🌱  I’m currently learning **DevSecOps & Cloud Devops**
@@ -11,7 +12,7 @@
   - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
     <br>
     <br>
-     <img alt="GIF" src="https://github.com/Keer324/keer324/blob/main/hadder.gif?raw=true" width="500"/> 
+   
 
    <h3 align="left">Connect with me:</h3>
    <p align="left">
