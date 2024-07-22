@@ -3,7 +3,7 @@
          <p align="left"> <img src="https://komarev.com/ghpvc/?username=keer324&label=Profile%20views&color=0e75b6&style=flat" alt="keer324" /> </p>
 
 
-  - 🌱 I’m currently learning **Web Development**
+  - 🌱  I’m currently learning **DevSecOps & Cloud Devops**
   - 👨‍💻 You can also check out my portfolio at [https://keer324.github.io/Keerthiraj-Portfolio/](https://keer324.github.io/Keerthiraj-Portfolio/)
   - 📫 How to reach me **keerthimoger@gmail.com**
   - 🧠 I am an **open-source enthusiast** and an aspiring **mern stack developer** along with other skills like C, Python, Java, Javascript.
@@ -55,6 +55,14 @@
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keer324&show_icons=true&locale=en&layout=compact" alt="keer324" /></p>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keer324&show_icons=true&locale=en" alt="keer324" /></p>
    <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=keer324" alt="GitHub Streak" /></a></p
+
+   <br>
+   ### 🔝 Top Contributed Repo
+
+
+
+   
+   ![](https://github-contributor-stats.vercel.app/api?username=Keer324&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <!--
 **Keer324/keer324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
