@@ -69,6 +69,19 @@
 
    ![](https://github-contributor-stats.vercel.app/api?username=Keer324&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+
+
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+   ![GitHub Contribution Snake](https://raw.githubusercontent.com/Keer324/snk/output/github-contribution-grid-snake.svg)
+
 <!--
 **Keer324/keer324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
