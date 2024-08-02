@@ -1,3 +1,6 @@
+<img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/Keer324/Keer324/blob/main/Banner.png">
+
+
 <h1 align="center"> Hi👋, I'm Keerthiraj Moger</h1>
 <h3 align="center"> Web Developer | Programmer | Continuous Learner</h3>
          <p align="left"> <img src="https://komarev.com/ghpvc/?username=keer324&label=Profile%20views&color=0e75b6&style=flat" alt="keer324" /> </p>
