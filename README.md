@@ -1,4 +1,4 @@
-<img width="100%" height="220" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/Keer324/Keer324/blob/main/Banner.png">
+<img width="100%" height="210" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/Keer324/Keer324/blob/main/Banner.png">
 
 
 <h1 align="center"> Hi👋, I'm Keerthiraj Moger</h1>
