@@ -4,7 +4,7 @@
 <h1 align="center"> Hi👋, I'm Keerthiraj Moger</h1>
 <h3 align="center"> Web Developer | Programmer | Continuous Learner</h3>
          <p align="left"> <img src="https://komarev.com/ghpvc/?username=keer324&label=Profile%20views&color=0e75b6&style=flat" alt="keer324" /> </p>
-         <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshahelvar" alt="adarshahelvar" /></a> </p>
+         <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keer324" alt="keer324" /></a> </p>
            <img  align="right"  width="400" alt="GIF" src="https://github.com/Keer324/keer324/blob/main/hadder.gif?raw=true" width="500"/> 
 
 
